@@ -1,2 +1,2 @@
-# trabalho-transforma-es-objeto-tridimensional
-Computação Gráfica
+# Aplicando Transformações em Objetos Tridimensionais
+Disciplina de Computação Gráfica
