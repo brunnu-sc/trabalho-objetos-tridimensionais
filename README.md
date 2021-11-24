@@ -1,2 +1,3 @@
-# Aplicando Transformações em Objetos Tridimensionais
-Disciplina de Computação Gráfica
+# Computação Gráfica
+Reconhecimento Facial
+Trabalhando com Objetos Tridimensionais
